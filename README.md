@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,react,angular,mongo,nodejs,express,figma&perline=9)](https://skillicons.dev)
 ---
 
-### 💻 Most Used Languages
+<!-- ### 💻 Most Used Languages
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azouz8&layout=compact&theme=tokyonight" />
@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=azouz8&show_icons=true&theme=tokyonight" />
   
 </div>
-
+-->
 
 ---
 <p align="center">
