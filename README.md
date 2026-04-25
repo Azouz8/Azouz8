@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Azouz</h1>
-<h3 align="center">Mobile App Developer | Cross-Platform Enthusiast</h3>
+<h3 align="center">Software Engineer | Cross-Platform Enthusiast</h3>
 
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me
-🎓 I’m a *Mobile App Developer* specialized in creating cross-platform mobile apps  
+🎓 I’m a *Software Enginneer* specialized in creating cross-platform mobile and web apps  
 🔭 Currently working on enhancing my web development skills beside my mobile dev skills  
 🌱 Learning *Node.js, Express, MongoDB, React, Angular*  
 📫 Reach me: *aliazouz.808@gmail.com* | [LinkedIn](https://www.linkedin.com/in/ali-azouz/)
@@ -21,7 +21,7 @@
 ### 🛠 Languages & Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,nodejs,mongo,express,nextjs,flutter,dart,kotlin,figma&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nodejs,mongo,express,nextjs,js,ts,html,css,flutter,dart,firebase,kotlin,vscode,git,github,postman&perline=9)](https://skillicons.dev)
 ---
 
 <!-- ### 💻 Most Used Languages
