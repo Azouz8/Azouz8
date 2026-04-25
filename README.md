@@ -21,7 +21,7 @@
 ### 🛠 Languages & Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,react,angular,mongo,nodejs,express,figma&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nodejs,mongo,express,nextjs,flutter,dart,kotlin,figma&perline=9)](https://skillicons.dev)
 ---
 
 <!-- ### 💻 Most Used Languages
