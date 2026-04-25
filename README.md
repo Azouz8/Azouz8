@@ -19,25 +19,15 @@
  ---
 
 ### 🛠 Languages & Tools
-
-
 [![My Skills](https://skillicons.dev/icons?i=angular,react,nodejs,mongo,express,nextjs,js,ts,html,css,flutter,dart,firebase,kotlin,vscode,git,github,postman&perline=9)](https://skillicons.dev)
 ---
 
-<!-- ### 💻 Most Used Languages
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azouz8&layout=compact&theme=tokyonight" />
   
 </div>
 
-### ⚙️ GitHub Stats
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=azouz8&show_icons=true&theme=tokyonight" />
-  
-</div>
--->
 
 ---
 <p align="center">
